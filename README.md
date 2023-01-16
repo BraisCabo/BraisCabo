@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brais</h1>
 <h3 align="center">Software Engineering + Computer Engineering student</h3>
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 🌱 I’m currently learning **how to develop software**
+
+- 👨‍💻 All of my projects are available at my github
 
 - 📫 How to reach me **braiscabofelpete@gmail.com**
 
