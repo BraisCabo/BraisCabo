@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Brais</h1>
-My name is Brais Cabo and I'm a software engineering + computer engineering student. I'm from Spain, living in Madrid and currently studing at Rey Juan Carlos University. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Brais
+My name is Brais Cabo and I'm a software engineering + computer engineering student. I'm from Spain, living in Madrid and currently studing at Rey Juan Carlos University. You can find me  on [![LinkedIn][3.2]][3].
 <h3 align="center">Software Engineering + Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **how to develop software** at the university
@@ -38,9 +38,8 @@ My name is Brais Cabo and I'm a software engineering + computer engineering stud
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/BraisCabo
+[3]: https://www.linkedin.com/in/braiscabo/
 
 
 <!-- Resources -->
