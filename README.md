@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Brais</h1>
+My name is Brais Cabo and I'm a software engineering + computer engineering student. I'm from Spain, living in Madrid and currently studing at Rey Juan Carlos University. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <h3 align="center">Software Engineering + Computer Engineering Student</h3>
-<img align = "right" alt = "coding" width = "300"   src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<br>
 
 - 🌱 I’m currently learning **how to develop software** at the university
 
@@ -22,3 +21,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braiscabo&show_icons=true&locale=en" alt="braiscabo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braiscabo&" alt="braiscabo" /></p>
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
